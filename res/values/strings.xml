@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, SearchActivity!</string>
+    <string name="app_name">CBIRAssignment</string>
+    <string name="cbir_search_activity">Content Based Image Retrieval</string>
+    <string name="rebuild_index">Rebuild Index</string>
+    <string name="add_annotation">Add Annotation</string>
+    <string name="about">About</string>
+    <string name="enter_keywords">Enter Keywords</string>
+    <string name="search_by_text">Search By Text</string>
+    <string name="query_by_image">Query</string>
+    <string name="results">Search Results</string>
+    <string name="similarity">Similarity</string>
+    <string name="name">Name</string>
+    <string name="relevant">Relevant ?</string>
+    <string name="search">Search</string>
+    <string name="built_index">Index Built</string>
+</resources>
